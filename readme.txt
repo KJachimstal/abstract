@@ -1,0 +1,1 @@
+Abstract - this is project for learning coding and working with Git
